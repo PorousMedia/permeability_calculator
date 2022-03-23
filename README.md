@@ -1,4 +1,4 @@
-**_Author_**:
+**_Authors_**:
 
     Buki (Data and Computational Geoscientist): olubukola.ishola@okstate.edu
     
