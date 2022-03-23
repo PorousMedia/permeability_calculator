@@ -1,0 +1,2 @@
+# permeability_calculator
+perm_ calculator is a tool for rapid calculation of permeability from raw and processed MICP data. This will help save time spent on manually obtaining permeability estimates using Dastidar, Winland, Swanson, Wells, and Kamath models     See our paper for more details on the respective models: Ishola, O. and Vilcáez, J., Machine learning modeling of permeability in 3D heterogeneous porous media using a novel stochastic pore-scale simulation approach.
