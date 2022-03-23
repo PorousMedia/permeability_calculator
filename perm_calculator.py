@@ -15,7 +15,7 @@ code requirement(s):
     install pandas:  "pip install pandas" see more information here: https://pypi.org/project/pandas/
     
 How to use:
-    Download the .py file into the same folder you have your MICP data. Then run the file.
+    Download the .py file into the same folder you have your MICP data, then run the file.
     Please use python3. Also, the file holding the MICP data should be excel (xlsx) format.
     The code is interactive and will prompt you to enter some information about the file.    
 """
